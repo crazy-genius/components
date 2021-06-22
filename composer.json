@@ -2,7 +2,7 @@
   "name": "webvimark/components",
   "description": "Components for yii 2",
   "require": {
-    "webvimark/image": "dev-feature/migrate_composer2.0/master#9a41042b23709a94c3b9aa49b99fbffd6455a510",
+    "webvimark/image": "1.0.1",
     "webvimark/helpers": "^1.0.0"
   },
   "autoload": {
