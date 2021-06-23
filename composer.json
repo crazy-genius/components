@@ -2,7 +2,7 @@
   "name": "webvimark/components",
   "description": "Components for yii 2",
   "require": {
-    "webvimark/image": "1.0.1b",
+    "webvimark/image": "1.0.2",
     "webvimark/helpers": "^1.0.0"
   },
   "autoload": {
